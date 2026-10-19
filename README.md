@@ -1,5 +1,7 @@
 # rlhf-from-scratch
 
+[![GitHub stars](https://img.shields.io/github/stars/theaisocietyasu/rlhf-from-scratch?style=social)](https://github.com/theaisocietyasu/rlhf-from-scratch/stargazers) [![GitHub forks](https://img.shields.io/github/forks/theaisocietyasu/rlhf-from-scratch?style=social)](https://github.com/theaisocietyasu/rlhf-from-scratch/forks)
+
 Hands-on RLHF tutorial and minimal code examples. This repo is focused on teaching the main steps of RLHF with compact, readable code rather than providing a production system.
 
 What the code implements (short)
